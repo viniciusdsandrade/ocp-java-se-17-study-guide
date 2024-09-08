@@ -7,5 +7,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="mysql-connector-j-9.0.0" level="project" />
+    <orderEntry type="library" exported="" name="postgresql-42.7.4" level="project" />
+    <orderEntry type="library" exported="" name="mssql-jdbc-12.8.1.jre11" level="project" />
   </component>
 </module>
